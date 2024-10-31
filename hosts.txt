@@ -1,0 +1,6 @@
+0.0.0.0 www.python.org
+::1 www.python.org
+0.0.0.0 www.fosshub.com
+::1 www.fosshub.com
+0.0.0.0 download.db-ip.com
+::1 download.db-ip.com
